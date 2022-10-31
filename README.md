@@ -4,19 +4,20 @@
 
 - [ ] How to train?
   
-  - [ ] YOLO
+  - [x] YOLO
     
-    - [ ] PyTorch or TF?
-      * v4 with eventual migration to v5?
+    - [x] PyTorch or TF?
+      * v7
   
-  - [ ] TF SSD
+  - [ ] ~~TF SSD~~
   
   - [ ] ~~PyTorch SSD~~
 
-- [ ] **Find**/Make Dataset (all kinds of cones)
-    * popular set: https://github.com/ddavid/fsoco
-    
-- [ ] Train
+- [x] **Find**/Make Dataset (all kinds of cones)
+  
+  * popular set: https://github.com/ddavid/fsoco
+
+- [x] Train
 
 - [ ] Build Inference Engine
   
@@ -27,5 +28,4 @@
     - [ ] Start w/Python ([OpenCV](https://towardsdatascience.com/yolov4-with-cuda-powered-opencv-dnn-2fef48ea3984))
     
     - [ ] Port to C++ (OpenCV)
-
 * Reference: https://arxiv.org/pdf/1902.02394.pdf
